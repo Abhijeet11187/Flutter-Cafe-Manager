@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865442067310",
+    "firebase_url": "https://cafemanager-f1795.firebaseio.com",
+    "project_id": "cafemanager-f1795",
+    "storage_bucket": "cafemanager-f1795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865442067310:android:e821f043afa63d70e0c77f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865442067310-btqr7agnod7a9gre56f8gor9hjae6bcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCddImfGwE2Msq61vvMSm0BKGdDOhOW26s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865442067310-btqr7agnod7a9gre56f8gor9hjae6bcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
